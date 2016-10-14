@@ -1,0 +1,7 @@
+
+今天，一个是看了10章的effective C++，另一个是做了一道leetcode的题目。看实验楼，看线程池的组成（创建线程池，销毁线程池，任务队列）。
+c++11的特性：
+nullptr 区分 NULL, 0
+thread 机制，在语言级别实现线程
+unordered_map,unordered_set 新的容器
+lambda表达式出现，匿名函数 
